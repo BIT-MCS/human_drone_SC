@@ -1,6 +1,6 @@
 # FD-MAPPO (Cubic Map)
 Additional materials for paper "Human-Drone Collaborative Spatial Crowdsourcing by Memory-Augmented 
-Distributed Multi-Agent Deep Reinforcement Learning" submitted to ICDE 2022.
+Distributed Multi-Agent Deep Reinforcement Learning" accepted by ICDE 2022.
 ## :page_facing_up: Description
 FD-MAPPO (Cubic Map) is a novel deep reinforcement learning (DRL) framework for human-drone collaborative SC tasks. It consists of a fully decentralized MADRL framework, called FD-MAPPO, as a novel multi-actor-multi-learner architecture without any centralized control module based on PPO. It also contains a novel memory structure, called Cubic Map, to enable novel sparse cubic writing and contextual attentive reading operations.
 ## :wrench: Dependencies
