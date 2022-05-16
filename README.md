@@ -96,10 +96,12 @@ If you have any question, please email `2656886245@qq.com`.
 If you are interested in our work, please cite our paper as
 
 ```
-@INPROCEEDINGS{9458664,
+@INPROCEEDINGS{wang2022fdmappo_cubicmap,
+  title={Human-Drone Collaborative Spatial Crowdsourcing by Memory-Augmented Distributed Multi-Agent Deep Reinforcement Learning}, 
   author={Wang, Yu and Liu, Chi Harold and Piao, Chengzhe and Yuan, Ye and Han, Rui and Wang, Guoren and Tang, Jian},
   booktitle={2022 IEEE 38th International Conference on Data Engineering (ICDE)}, 
-  title={Human-Drone Collaborative Spatial Crowdsourcing by Memory-Augmented Distributed Multi-Agent Deep Reinforcement Learning}, 
   year={2022},
+  pages={25--36},
+  organization={IEEE}
 }
 ```
