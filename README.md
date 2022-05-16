@@ -101,7 +101,7 @@ If you are interested in our work, please cite our paper as
   author={Wang, Yu and Liu, Chi Harold and Piao, Chengzhe and Yuan, Ye and Han, Rui and Wang, Guoren and Tang, Jian},
   booktitle={2022 IEEE 38th International Conference on Data Engineering (ICDE)}, 
   year={2022},
-  pages={25--36},
+  pages={459--471},
   organization={IEEE}
 }
 ```
