@@ -96,10 +96,10 @@ If you have any question, please email `2656886245@qq.com`.
 If you are interested in our work, please cite our paper as
 
 ```
-@inproceedings{zhao2022cadre,
-  author    = {Zhao, Yinuo and Wu, Kun and Xu, Zhiyuan and Che, Zhengping and Lu, Qi and Tang, Jian and Liu, Chi Harold},
-  title     = {CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-based Autonomous Urban Driving},
-  booktitle = {Association for the Advancement of Artificial Intelligence (AAAI)},
-  year      = {2022},
+@INPROCEEDINGS{9458664,
+  author={Wang, Yu and Liu, Chi Harold and Piao, Chengzhe and Yuan, Ye and Han, Rui and Wang, Guoren and Tang, Jian},
+  booktitle={2022 IEEE 38th International Conference on Data Engineering (ICDE)}, 
+  title={Human-Drone Collaborative Spatial Crowdsourcing by Memory-Augmented Distributed Multi-Agent Deep Reinforcement Learning}, 
+  year={2022},
 }
 ```
