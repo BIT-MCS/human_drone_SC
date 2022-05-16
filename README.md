@@ -92,3 +92,14 @@ Corresponding author: Chi Harold Liu.
 ## :e-mail: Contact
 
 If you have any question, please email `2656886245@qq.com`.
+## Paper
+If you are interested in our work, please cite our paper as
+
+```
+@inproceedings{zhao2022cadre,
+  author    = {Zhao, Yinuo and Wu, Kun and Xu, Zhiyuan and Che, Zhengping and Lu, Qi and Tang, Jian and Liu, Chi Harold},
+  title     = {CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-based Autonomous Urban Driving},
+  booktitle = {Association for the Advancement of Artificial Intelligence (AAAI)},
+  year      = {2022},
+}
+```
